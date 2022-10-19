@@ -42,7 +42,6 @@ class _MyHomePageState extends State<MyHomePage> {
             // add your leading and actions here
             leading: IconButton(onPressed: (){}, icon: const Icon(Icons.menu_outlined)),
             pinned: true,
-            floating: true,
             // backgroundColor: Colors.black,
             expandedHeight: MediaQuery.of(context).size.height,
             flexibleSpace: Stack(
