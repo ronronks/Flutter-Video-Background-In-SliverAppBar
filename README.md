@@ -42,9 +42,8 @@ class _VideoState extends State<Video> {
 ```
 
 
-
-
-
-
 https://user-images.githubusercontent.com/21292472/196630084-ec2208ee-6b5e-42fe-a161-e85d8d86ee10.mp4
 
+
+### Dependecies
+* [video_player](https://pub.dev/packages/video_player)
