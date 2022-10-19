@@ -1,6 +1,6 @@
 # Adding a Video Backgroun to your SliverAppBar (or any other widget)
 
-SliverAppBar struncture
+SliverAppBar structure
 ```dart
 SliverAppBar(
             ...
@@ -31,7 +31,7 @@ SliverAppBar(
 ```
 
 
-### Change Video 
+Change Video 
 ```dart
 class _VideoState extends State<Video> {
   // change video here
