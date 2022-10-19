@@ -42,7 +42,7 @@ class _VideoState extends State<Video> {
 ```
 
 
-https://user-images.githubusercontent.com/21292472/196630084-ec2208ee-6b5e-42fe-a161-e85d8d86ee10.mp4
+![vid](https://user-images.githubusercontent.com/21292472/196631557-0799d298-b396-489f-89b3-382c281b448f.gif)
 
 
 ### Dependecies
